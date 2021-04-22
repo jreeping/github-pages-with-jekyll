@@ -2,4 +2,7 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a good start for my blog
+---
+This is going to be an everyday post of how I do in Valorant/OW
+
